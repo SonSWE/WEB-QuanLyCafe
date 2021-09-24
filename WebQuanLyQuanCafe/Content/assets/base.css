@@ -1,0 +1,18 @@
+:root{
+    --white-color:#fff;
+    --black-color:#000;
+    --starbucks-green:#006241;
+    --accent-green:#00754a;
+    --light-green:#d4e9e2;
+    --house-green:#1e3932;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;  
+}
+html{
+    font-family: 'Roboto', sans-serif;
+    font-size: 62.5%;
+    line-height: 1.6rem;
+}
