@@ -136,6 +136,7 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\img\background cf.jpg" />
     <Content Include="Content\img\background input.jpg" />
+    <Content Include="Content\scripts\ScriptLogin.js" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
